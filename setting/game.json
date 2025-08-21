@@ -1,8 +1,8 @@
 {
-  "title": "ultimate-game-template",
-  "description": "A fun ultimate game.",
+  "title": "Ultimate Snake",
+  "description": "A fun and visually stunning snake game where you compete against an AI, dodge dynamic walls, and climb a live leaderboard. Features grid expansion, flashy level-up popups, and a main menu.",
   "cover_image": "cover.jpg",
-  "repo": "daily-ultimate-game/ultimate-game-template",
+  "repo": "daily-ultimate-game/ultimate-snake",
   "author": "paco1127",
-  "tags": []
+  "tags": ["snake", "game", "javascript", "canvas", "ai", "leaderboard", "web"]
 }
